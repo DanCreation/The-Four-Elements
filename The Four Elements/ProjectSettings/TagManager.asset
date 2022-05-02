@@ -47,6 +47,9 @@ TagManager:
   - name: Platforms
     uniqueID: 78731967
     locked: 0
+  - name: Powerup
+    uniqueID: 3295413611
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
